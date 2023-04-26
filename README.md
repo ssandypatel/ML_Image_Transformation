@@ -5,9 +5,9 @@ Given a matrix A, the SVD is a factorization of the form:
 
 ## A = U * S * V^T
 
-where U and V are orthogonal matrices, and S is a diagonal matrix of singular values.
+where U and V are orthogonal matrices, and S is a diagonal matrix of singular values.<br>
 ![SVD image](SVD.png)
-
+<br>
 U is called anti-clockwise rotation matrix
 S is scaling matrix. First element is horizontal scaling factor and the second image is vertical scaling factor.
 V^T is clockwise totation matrix.
